@@ -1,5 +1,5 @@
 <!-- Banner superior (puedes reemplazar la URL por el banner que te hice o subir el tuyo propio) -->
-![Banner](https://i.imgur.com/Hy4QxJF.png)
+![Banner](https://github.com/pepilloAgricola/pepilloAgricola/blob/b704870e0e03e1d16cc6337fdd7f21435a8f40f6/banner.jpeg)
 
 # 👋 Hola, soy **José Aurelio**
 
